@@ -1,5 +1,5 @@
 baseURL = 'https://mannekeenpis.github.io'
-title = 'Manneken Pis'
+title = 'Manneken Pis Blog'
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
@@ -97,7 +97,7 @@ theme = "hugo-blog-awesome"
   # By default (or if nothing is specified), summary is used.
 
 [Languages.en-gb.params.author]
-  avatar = "/avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
+  avatar = "me.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Manneken Pis Blog"
   name = "Manneken Pis"
